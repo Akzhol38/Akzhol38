@@ -22,12 +22,7 @@
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript"         />
-      </a>
-      <br>TypeScript
-    </td>
+    
     <td align="center" width="96">
       <a href="#debabin-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
@@ -58,12 +53,7 @@
       </a>
       <br>Github
     </td>
-    <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="48" height="48" alt="docker" />
-      </a>
-      <br>Docker
-    </td>
+   
   </tr> 
 </table>
 
@@ -152,18 +142,8 @@
  
 <table width='100%'>
   <tr>
-    <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-    <td align="center" width="96">
-      <a href="#debabin-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
+    
+   
     <td align="center" width="96">
       <a href="#debabin-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo DB" />
