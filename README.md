@@ -22,7 +22,6 @@
       </a>
       <br>JavaScript
     </td>
-    
     <td align="center" width="96">
       <a href="#debabin-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
