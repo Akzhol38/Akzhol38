@@ -86,12 +86,6 @@
       </a>
       <br>React JS
     </td>
-          <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
       <td align="center" width="96"> 
       <a href="#debabin-stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
@@ -118,32 +112,17 @@
       </a>
       <br>Html5
     </td>
-    <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="48" height="48" alt="Webpack" />
-      </a>
-      <br>Webpack
-    </td>
     <td align="center" width="96">
       <a href="#debabin-stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
-   <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
   </tr> 
 </table>
->  Backend
  
 <table width='100%'>
   <tr>
-    
-   
     <td align="center" width="96">
       <a href="#debabin-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo DB" />
